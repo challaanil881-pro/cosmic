@@ -1,0 +1,2 @@
+# cosmic
+cosmic static page
